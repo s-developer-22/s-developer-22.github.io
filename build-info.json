@@ -1,0 +1,63 @@
+{
+  "applicationVersion": "1.0.0",
+  "version": "500df99ecac5a735",
+  "date": "2026-09-24T11:12:58.366Z",
+  "assets": [
+    {
+      "path": "assets/export-CZ3lwdue.js",
+      "bytes": 933244
+    },
+    {
+      "path": "assets/index-B8jFpWkW.js",
+      "bytes": 31436
+    },
+    {
+      "path": "assets/index-b8pyrMDd.css",
+      "bytes": 21203
+    },
+    {
+      "path": "assets/ocr.worker-CVgEpdiK.js",
+      "bytes": 10479712
+    },
+    {
+      "path": "assets/ort.min-B17hYBWi.js",
+      "bytes": 361193
+    },
+    {
+      "path": "icon-192.png",
+      "bytes": 697
+    },
+    {
+      "path": "icon-512.png",
+      "bytes": 2303
+    },
+    {
+      "path": "icon.svg",
+      "bytes": 349
+    },
+    {
+      "path": "index.html",
+      "bytes": 866
+    },
+    {
+      "path": "manifest.webmanifest",
+      "bytes": 523
+    },
+    {
+      "path": "ocr/PP-OCRv6_tiny_det.tar",
+      "bytes": 1792000
+    },
+    {
+      "path": "ocr/PP-OCRv6_tiny_rec.tar",
+      "bytes": 4526080
+    },
+    {
+      "path": "ocr/ort/ort-wasm-simd-threaded.jsep.mjs",
+      "bytes": 46851
+    },
+    {
+      "path": "ocr/ort/ort-wasm-simd-threaded.jsep.wasm",
+      "bytes": 28312028
+    }
+  ]
+}
