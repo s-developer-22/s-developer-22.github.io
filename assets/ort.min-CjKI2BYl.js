@@ -1,4 +1,4 @@
-import{t as e}from"./ocr.worker-CVgEpdiK.js";
+import{t as e}from"./ocr.worker-DQoF7Lr6.js";
 /*!
 * ONNX Runtime Web v1.30.0
 * Copyright (c) Microsoft Corporation. All rights reserved.

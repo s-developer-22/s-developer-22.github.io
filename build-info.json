@@ -1,26 +1,26 @@
 {
-  "applicationVersion": "1.0.0",
-  "version": "500df99ecac5a735",
-  "date": "2026-09-24T11:12:58.366Z",
+  "applicationVersion": "1.1.0",
+  "version": "023068f41b542f8f",
+  "date": "2026-09-24T12:40:39.089Z",
   "assets": [
     {
-      "path": "assets/export-CZ3lwdue.js",
+      "path": "assets/export-B_X1LW4s.js",
       "bytes": 933244
     },
     {
-      "path": "assets/index-B8jFpWkW.js",
-      "bytes": 31436
+      "path": "assets/index-CwgOWz0Q.js",
+      "bytes": 30792
     },
     {
-      "path": "assets/index-b8pyrMDd.css",
-      "bytes": 21203
+      "path": "assets/index-D0SOM8Ds.css",
+      "bytes": 14699
     },
     {
-      "path": "assets/ocr.worker-CVgEpdiK.js",
-      "bytes": 10479712
+      "path": "assets/ocr.worker-DQoF7Lr6.js",
+      "bytes": 10479187
     },
     {
-      "path": "assets/ort.min-B17hYBWi.js",
+      "path": "assets/ort.min-CjKI2BYl.js",
       "bytes": 361193
     },
     {
